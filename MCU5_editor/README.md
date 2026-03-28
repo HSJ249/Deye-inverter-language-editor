@@ -1,0 +1,1 @@
+You can edit MCU5 language files with the MCU5_editor program. The texts are UTF-8 encoded, but for the inverter to correctly display language-specific characters, the HMI software must be appropriate. For example, for 3PH_LV inverters, you need the following files: MCU1-SG-Ver1003-C04D-CK.bin ; MCU5_ADD64_FONT_0009_FFFE-CK.bin.
