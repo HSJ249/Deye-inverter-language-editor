@@ -1,6 +1,6 @@
 # Deye-inverter-language-editor
 Menu language editor for Deye inverters.
-This repository was created for testing purposes to see if it was possible to change (modify) the menu language in Deye inverters.
+This repository was created for testing purposes to see if it was possible to change (modify) the menu language in Deye inverters. With this tool you can create menus in Deye inverters in any language.
 
 Legal Disclaimer
 
